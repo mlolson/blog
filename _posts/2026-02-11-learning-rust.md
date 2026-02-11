@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Used Claude Code to Teach Myself Rust"
+title: "Pair programming with Claude: How I used AI to teach myself Rust"
 date: 2026-02-11
 author: Matt
 ---
