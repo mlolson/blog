@@ -5,7 +5,7 @@ date: 2026-02-11
 author: Matt
 ---
 
-I've become interested in the question of how AI can be used to level up human thinking, rather than acting as a crutch that causes skills and knowledge to atrophy. To explore this, I decided to try to use AI (Claude code) to learn something new: the Rust programming language. I have long wanted to learn Rust, but I have never had the time to sit down and do it.
+Lately I've become interested in the question of how AI can be used to level up human thinking, rather than acting as a crutch that causes skills and knowledge to atrophy. To explore this, I decided to try to use AI (Claude code) to learn something new: the Rust programming language. I have long wanted to learn Rust, but I have never had the time to sit down and do it.
 
 My goal for this exercise was to see if I could harness the power of Claude to not only accelerate my code output, but my own learning as well. Although I chose to learn a programming language, I hope that this technique can be applied to other computer science and engineering topics as well.
 
