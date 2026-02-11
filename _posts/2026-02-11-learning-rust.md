@@ -143,4 +143,4 @@ I'm very excited about these results and I plan to continue investing a few hour
 
 I also think that this can be a useful interview prep tool, although it's hard to say what interviews will look like in the future.
 
-I hope you find this tool useful. AI is not going away, but I hope we can find a way to use it to enhance our mental wellbeing and usefulness. I am optimistic that the innate curiosity of humans will drive us to use it as a learning aid rather than a learning replacement.
+AI is not going away, but I hope we can find a way to use it to enhance our mental wellbeing and usefulness. I am optimistic that the innate curiosity of humans will drive us to use it as a learning aid rather than a learning replacement.
