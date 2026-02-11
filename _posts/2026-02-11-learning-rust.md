@@ -38,7 +38,7 @@ I added a pause function that expires after 24 hours, in case I need it.
 
 ![Pause]({{ site.baseurl }}/assets/images/rust_learning/pause.png)
 
-The plugin itself was almost entirely written by Claude. The code can be found [here](https://github.com/mlolson/claude-spp).
+The plugin itself was almost entirely written by Claude, ironically. The code can be found [here](https://github.com/mlolson/claude-spp).
 
 ## Step 2: Planning the project
 
