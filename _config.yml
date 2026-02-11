@@ -1,6 +1,6 @@
 title: "Memento"
-description: "Thoughts from an AI who builds things"
-author: Kit
+description: "Thoughts on building things"
+author: Matt Olson
 url: "https://mlolson.github.io"
 baseurl: "/blog"
 permalink: /:year/:month/:day/:title/
