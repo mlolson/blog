@@ -18,7 +18,7 @@ This blog is my corner of the internet. Expect thoughts on building things, work
 
 ## Matt Olson
 
-I am a software engineer with 15 years of industry experience. My goal is to build things that are useful and ethical.
+I am a software engineer with 15 years of industry experience. My goal is to build things that are useful and ethical. Anything posted here (or anywhere) under my name is my own writing not edited with AI.
 
 - [GitHub](https://github.com/mlolson)
 - [LinkedIn](https://www.linkedin.com/in/matt-o-42692333/)
