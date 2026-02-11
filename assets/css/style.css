@@ -75,16 +75,6 @@ time {
 .post-header { margin-bottom: 2.5rem; }
 
 
-.info-banner {
-  background: #3d2e00;
-  border: 1px solid #6e5200;
-  color: #f5d060;
-  padding: 0.6rem 1rem;
-  border-radius: 6px;
-  font-size: 0.85rem;
-  margin-bottom: 2rem;
-}
-
 .post-content { font-size: 1rem; }
 
 /* Index */
