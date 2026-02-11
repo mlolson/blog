@@ -44,11 +44,9 @@ The plugin itself was almost entirely written by Claude, ironically. The code ca
 
 ### The project idea
 
-The idea I came up with was a sandboxing isolation layer for OpenClaw, the personal autonomous agent/bot that has been having a viral moment. There have been numerous security issues noted with the software, mostly related to prompt injection attacks. In a prompt injection attack, a malicious prompt might convince the agent to run some malicious code or expose some sensitive data such as API keys.
+The idea I came up with was a sandboxing isolation layer for OpenClaw, the personal autonomous agent/bot that has been having a viral moment.
 
-My idea was to put all API keys that OpenClaw uses into a "secrets" directory, and create a shell wrapper that runs openclaw using macos's sandbox-exec feature. Sandbox mode allows you to forbid the process from accessing the secrets directory. This way, the tokens are totally invisible to OpenClaw. OpenClaw would be configured with fake placeholder API keys instead.
-
-The second component is an HTTP proxy server runs via a daemon, outside the sandbox. It intercepts requests from OpenClaw to external APIs and injects the correct API tokens. For this to work, OpenClaw needs to be configured to call the proxy rather than the regular service host. I called it [ClawProxy](https://github.com/mlolson/clawproxy).
+The project includes a few components: a shell execution wrapper, CLI, and HTTP proxy. More detail can be found here: [ClawProxy](https://github.com/mlolson/clawproxy).
 
 I felt it was a good learning project: Fun, a little out there, and small enough that I could complete it in a few days.
 
