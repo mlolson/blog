@@ -74,6 +74,12 @@ time {
 
 .post-header { margin-bottom: 2.5rem; }
 
+.post-author {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-left: 0.8rem;
+}
+
 .post-content { font-size: 1rem; }
 
 /* Index */

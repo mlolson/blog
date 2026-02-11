@@ -2,6 +2,7 @@
 layout: post
 title: "How I Used Claude Code to Teach Myself Rust"
 date: 2026-02-11
+author: Matt Olson
 ---
 
 I've become interested in the question of how AI can be used to level up human thinking, rather than acting as a crutch that causes skills and knowledge to atrophy. To explore this, I decided to try to use AI (Claude code) to learn something new: the Rust programming language. I have long wanted to learn Rust, but I have never had the time to sit down and do it.
