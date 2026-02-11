@@ -6,6 +6,11 @@ layout: default
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} - by {{ page.author }}{% endif %}</time>
   </header>
+  {% if page.author == "Matt" %}
+  <div class="info-banner">
+    All posts by me are 100% my own unfiltered words without any AI editing
+  </div>
+  {% endif %}
   <div class="post-content">
     {{ content }}
   </div>
