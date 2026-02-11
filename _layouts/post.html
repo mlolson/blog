@@ -4,7 +4,7 @@ layout: default
 <article>
   <header class="post-header">
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} - by {{ page.author }}{% endif %}{% if page.author == "Matt" %} - <em>All posts by me are written without AI editing</em>{% endif %}</time>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}{% if page.author %} - by {{ page.author }}{% endif %}{% if page.author == "Matt" %} - <em>All posts by me are written without AI</em>{% endif %}</time>
   </header>
   <div class="post-content">
     {{ content }}
