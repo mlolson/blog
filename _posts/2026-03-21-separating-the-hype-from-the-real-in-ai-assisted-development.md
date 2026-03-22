@@ -33,7 +33,7 @@ Some people such as Marc Andreessen have predicted that AI will cause traditiona
 
 We should remember that Marc and people like him who make this claim are often working in startups, where there has always been blurriness between functions and roles, and AI no doubt increases this blurriness even further. However, it's a leap to assume that what applies to a startup also applies in larger organizations.
 
-The assertion that AI makes specialization obsolete is usually made without elaboration. How it removes the need for non-engineering functions such as project management, people management, or design, is left unexplained. 
+The assertion that AI makes specialization obsolete is usually made without elaboration. What it seems to mean in practice is that everyone is expected to be an engineer at the expense of their other competencies. How it removes the need for non-engineering functions such as project management, people management, or design, is left unexplained. 
 
 In fact, with engineering moving at a faster pace, it seems just as likely that AI could increase the need for these functions. The problem of how to organize resources, and the question of what to build and how to sequence it, the problems of people management, have not gone away with the advent of AI. And these are problems that AI is less adept at solving compared to writing code. 
 
