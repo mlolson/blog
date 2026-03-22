@@ -76,7 +76,7 @@ I think that in the future this distinction between prototype and product will b
 
 We often hear AI talked about in terms of something that increases velocity but degrades quality by introducing "slop". However, this does not have to be the case.
 
-AI is extraordinarily good at reviewing code, finding bugs, and writing tests. It can find performance regressions in automated tests, carry out automated bisects, and all of the other important but tedious work that h
+AI is extraordinarily good at reviewing code, finding bugs, and writing tests. It can find performance regressions in automated tests, carry out automated bisects, and all of the other important but tedious work that humans often balk at.
 
 As such, AI can be a powerful tool for increasing product quality, but this effect can be outweighed by bad practices such as "human on the loop" that allow low quality slop to enter the codebase without proper review. Eventually, businesses will have to decide how much they prioritize velocity vs quality. This is not a new tradeoff, but it becomes even sharper with AI.
 
