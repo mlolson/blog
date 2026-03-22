@@ -9,7 +9,7 @@ author: Matt
 
 For years, software engineering was in the dark ages. Projects were over budget, bloated, and missing the market. Then came the revolution that promised to change everything: agile! It proposed an iterative approach to development that seemed modern and intuitive compared to old school top down waterfall style planning that it was attempting to replace.
 
-Soon developers were advertising their agile chops prominently on their resume. Online courses offered certification as "scrum masters." Roles, teams, and even companies were adopting the "agile" label. And so on.
+Soon developers were advertising their agile chops prominently on their resumes. Online courses offered "scrum master" certifications. Roles, teams, and even companies were adopting the "agile" label. And so on.
 
 The hype eventually died back, but agile itself never truly died. To this day, many of its core components: iterative development, sprints, and stand ups, continue to be practiced by engineering teams, even if they no longer use the "agile" label. Beneath the hype was a solid core of valuable ideas that stuck around.
 
