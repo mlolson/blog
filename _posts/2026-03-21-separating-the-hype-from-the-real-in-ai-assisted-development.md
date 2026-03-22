@@ -7,7 +7,7 @@ author: Matt
 
 ## The new paradigm hype cycle
 
-For years, software engineering was in the dark ages. Projects were over budget, bloated, and missing the market. Then came the revolution that promised to change everything: It proposed an iterative approach to development that seemed modern and intuitive compared to old school top down waterfall style planning that it was attempting to replace. Of course, I'm talking about Agile!
+For years, software engineering was in the dark ages. Projects were over budget, bloated, and missing the market. Then came the revolution that promised to change everything: It proposed an iterative approach to development that seemed modern and sleek compared to old school top down waterfall style planning that it was attempting to replace. Of course, I'm talking about Agile!
 
 Soon developers were advertising their Agile chops prominently on their resumes. Online courses offered "scrum master" certifications. Roles, teams, and even companies were adopting the "Agile" label. Books were written. Seminars were held. And so on.
 
