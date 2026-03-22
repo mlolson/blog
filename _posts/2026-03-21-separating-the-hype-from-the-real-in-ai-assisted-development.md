@@ -29,7 +29,7 @@ When it comes to software, ownership and accountability require intimate knowled
 
 ### Hype: AI means the end of specialization, everyone is a "builder"
 
-Some people such as Marc Andreessen have predicted that AI will cause traditional roles such as engineer, manager, and PM will all blur together, and everyone will become an "AI builder."
+Some people such as Marc Andreessen have predicted that AI will cause traditional roles such as engineer, manager, and PM to all blur together, and everyone will become an "AI builder."
 
 We should remember that Marc and people like him who make this claim are often working in startups, where there has always been blurriness between functions and roles, and AI no doubt increases this blurriness even further. However, it's a leap to assume that what applies to a startup also applies in larger organizations.
 
