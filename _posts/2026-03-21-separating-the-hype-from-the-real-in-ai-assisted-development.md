@@ -80,6 +80,8 @@ AI is extraordinarily good at reviewing code, finding bugs, and writing tests. I
 
 As such, AI can be a powerful tool for increasing product quality, but this effect can be outweighed by bad practices such as "human on the loop" that allow low quality slop to enter the codebase without proper review. Eventually, businesses will have to decide how much they prioritize velocity vs quality. This is not a new tradeoff, but it becomes even sharper with AI.
 
+Eventually, I think many businesses will figure out that AI's ability to raise the quality and reliability bar is just as, if not more, valuable to them as it's ability to allow them to ship faster. 
+
 ## In conclusion
 
 Comparing AI assisted development to previous trends such as Agile is a bit unfair. It's much bigger and more important than Agile ever was. Nonetheless, it is likely to follow the same basic pattern of hype, followed by a return to pragmatism. At this point, 16 weeks into this phenomenon, it is almost inconceivable that all of the common wisdom of today will be regarded as correct a year or two from now.
