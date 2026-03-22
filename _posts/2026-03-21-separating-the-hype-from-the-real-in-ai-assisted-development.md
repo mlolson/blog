@@ -23,7 +23,7 @@ I think it is inevitable that AI assisted development follows the same path. Cur
 
 AI's ability to generate huge volumes of code has made human review and ownership of code a bottleneck. So, many people ask, why not take the human out of the loop altogether, and just allow the AI to write, review, and land the code all by itself? Maybe with a human observing from a distance. In this scenario, known as "human on the loop" (a cute way of saying "human not in the loop"), the human engineer is merely a manager of the AI, and the AI "owns" the actual code.
 
-I think this practice is unlikely to endure, for the simple reason that human ownership is valuable to organizations. When something breaks, when a new feature is needed, it is valuable and useful to have a designated owner. Ownership also means accountability. Where there are business or legal risks in play, businesses need a person who can be accountable for outcomes. AI cannot play this role, only a human can.
+I think this practice is unlikely to endure, for the simple reason that human ownership is valuable to organizations. When something breaks, when a new feature is needed, it is valuable and useful to have a person who can be made responsible for carrying out the task. Ownership also means accountability. Where there are business or legal risks in play, businesses need a person who can be held accountable for outcomes. AI cannot play this role, only a human can.
 
 When it comes to software, ownership and accountability require intimate knowledge of the code, and careful review of the changes that go into it. Businesses that value certainty and reliability (most of them) will eventually recognize this reality. Already, we are seeing signs of the limits of "human on the loop" in the form of [outages](https://www.techradar.com/pro/amazon-is-making-even-senior-engineers-get-code-signed-off-following-multiple-recent-outages) at Amazon and [data leaks](https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees) at Meta. I expect that as time goes on there will be a broader recognition that "human on the loop" is hype that should be discarded.
 
@@ -35,25 +35,25 @@ We should remember that Marc and people like him who make this claim are often w
 
 The assertion that AI makes specialization obsolete is usually made without elaboration. How it removes the need for non-engineering functions such as project management, people management, or design, is left unexplained. 
 
-In fact, with engineering moving at a faster pace, it seems just as likely that AI could increase the need for these functions. The problem of how to organize resources, and the question of what to build and how to sequence it, the problems of people management, are more important than ever. These are problems that AI is less adept at solving compared to writing code. 
+In fact, with engineering moving at a faster pace, it seems just as likely that AI could increase the need for these functions. The problem of how to organize resources, and the question of what to build and how to sequence it, the problems of people management, have not gone away with the advent of AI. And these are problems that AI is less adept at solving compared to writing code. 
 
-Given that code is now extremely cheap to write, what is gained by encouraging everyone to drop what they were doing and start writing it? This is hype.
+Given that code is now extremely cheap, what is gained by encouraging everyone to start producing it? The idea that all functions need to drop what they are doing and start pumping out code is hype.
 
 ### Hype: Token use, lines of code, or diff counts as a metric for impact
 
-Counting lines of code has long been recognized as a bad metric for engineer productivity. With AI, this is even more so the case, as pumping out code is now effectively free. As has often been said, the question of what to build, taste and judgment are now where the value lies.
+Counting lines of code has long been recognized as a bad metric for engineer productivity. With AI, this is even more so the case, since code is now effectively free. As has often been said, the question of what to build, taste and judgment are now where the value lies.
 
-Yet many companies seem to be falling back onto bad habits these days, using token or code metrics as a proxy for productivity or AI adoption. It wasn't a good idea in the past and it isn't now.
+Yet many companies seem to be falling back onto bad habits these days, using token or code metrics as a proxy for productivity or AI adoption. It wasn't a good idea in the past and it isn't now. This practice is hype.
 
 ## Looking for value beyond the hype
 
-No one, least of all me, can deny that AI will have a profound impact on the software industry. The ways this will happen are too numerous to cover here. I'm going to talk about a couple that I think have been less often discussed.
+No one, least of all me, can deny that AI is having a profound impact on the way software is built. The ways this is happenning are too numerous to cover here. I'm going to talk about a couple that I think have been less often discussed.
 
-### No hype: AI for prototyping
+### Not hype: AI for prototyping
 
-AI will have a profound impact on the way software is built, but there are subtleties to the picture that are often misunderstood. It is not the ability to write production code quickly that is most valuable, rather the most disruptive change comes from the ability of AI enabled fast prototyping to derisk product and technical decisions.
+I believe it is not AI's ability to write production code quickly that is most valuable, rather the most disruptive change comes from the ability of AI enabled fast prototyping to derisk product and technical decisions.
 
-Up until recently, building software was an elaborate process largely designed around managing risk: the risk of building the wrong product, and the risk that the technical approach would fail. Because building software was expensive, a miss on either of these could lead to a lot of wasted resources.
+Before AI, building software was an elaborate process largely designed around managing risk: the risk of building the wrong product, and the risk that the technical approach would fail. Because building software was expensive, a miss on either of these could lead to a lot of wasted resources.
 
 To manage these risks, teams went through careful stages of planning and execution starting with gathering requirements, creating product vision, design, and technical roadmap documents, and carefully reviewing all of these before starting any work.
 
@@ -68,7 +68,9 @@ AI's enablement of fast prototyping makes much of this process obsolete. Product
 | **Risk** | Low: code is throwaway | High: code is pushed to users |
 | **Who does it** | PM, design, eng | Mostly just engineers |
 
-The prototype vs product distinction allows product designers, PMs, and engineers to optimize for speed when trying to validate product and engineering decisions, while keeping vibe coded slop out of the production code base. I think that in the future this distinction between prototype and product will become more widely recognized.
+The prototype vs product distinction allows product designers, PMs, and engineers to optimize for speed when trying to validate product and engineering decisions, while keeping vibe coded slop out of the production code base. 
+
+I think that in the future this distinction between prototype and product will become more widely recognized, and there will be a distinct phased approach to product development involving an initial prototyping phase followed by a more careful, deliberate, and slower execution phase in which the actual product is built.
 
 ### Not hype: AI to improve product quality
 
