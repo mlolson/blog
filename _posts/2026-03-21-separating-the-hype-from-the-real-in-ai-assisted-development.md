@@ -47,7 +47,7 @@ Yet many companies seem to be falling back onto bad habits these days, using tok
 
 ## Looking for value beyond the hype
 
-No one, least of all me, can deny that AI is having a profound impact on the way software is built. The ways in which this is happenning are too numerous to cover here. I'm going to talk about a couple that I think have been less often discussed.
+No one, least of all me, can deny that AI is having a profound impact on the way software is built. The ways in which this will happen are too numerous to exhaustively cover here. I'm going to talk about a couple that I think have been missed by mainstream discourse.
 
 ### Not hype: AI for prototyping
 
